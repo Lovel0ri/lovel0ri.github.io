@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: 李树斌
 # 头像里面的描述
 avatarDesc: 网页制作（学习中）/ 小程序开发（学习中）
-url: "https://leopardpan.cn"
+url: https://lovel0ri.github.io/"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -23,21 +23,21 @@ social:
     github: Lovel0ri
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 2697601945@qq.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-<--!baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  -->
+#<--!baidu:
+   # id: 8ba1c6be0953b6f9c2ba38e57f615421  -->
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3  
-    host: auto  
+#ga:
+    #id: UA-84134159-3  
+   # host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -67,7 +67,7 @@ blog_button:
 nav:
     - {title: 网站设计, description: archive, url: '/archive'}   
     - {title: 平面设计, description: tags, url: '/tags'}      
-    - {title: 平面设计, description: support, url: '/support'}      
+    - {title: 学习笔记, description: support, url: '/categories/support'}      
     - {title: 关于我, description: about, url: '/about'} 
     - {title: svg笔记, description: svg , url: '/svg'}
       
