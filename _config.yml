@@ -65,8 +65,8 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 网站设计, description: archive, url: '/categories/archive'}   
-    - {title: 平面设计, description: tags, url: '/categories/tags'}      
+    - {title: 网站设计, description: archive, url: '/categories/网站设计'}   
+    - {title: 平面设计, description: tags, url: '/categories/平面设计'}      
     - {title: 学习笔记, description: support, url: '/categories/support'}      
     - {title: 关于我, description: about, url: '/categories/about'} 
     - {title: svg笔记, description: svg , url: '/tags/svg'}
