@@ -69,7 +69,7 @@ nav:
     - {title: 平面设计, description: tags, url: '/categories/tags'}      
     - {title: 学习笔记, description: support, url: '/categories/support'}      
     - {title: 关于我, description: about, url: '/categories/about'} 
-    - {title: svg笔记, description: svg , url: '/categories/svg'}
+    - {title: svg笔记, description: svg , url: '/tags/svg'}
       
     
 
