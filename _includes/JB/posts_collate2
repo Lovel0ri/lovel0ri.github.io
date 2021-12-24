@@ -17,7 +17,7 @@ Usage:
         
 -->{% endcomment %}
 
-{% if site.JB.posts_collate2.provider == "custom" %}
+{% if site.JB.posts_collate.provider == "custom" %}
   {% include custom/posts_collate %}
 {% else %}
   {% for post in posts_collate2  %}
@@ -63,4 +63,4 @@ Usage:
     {% endif %}
   {% endfor %}
 {% endif %}
-{% assign posts_collate2 = nil %}</div>
+{% assign posts_collate = nil %}</div>
