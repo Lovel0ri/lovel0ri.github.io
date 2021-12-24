@@ -737,7 +737,8 @@ img::-moz-selection {
     color: #BF1827;
   }
   .navigation__item {
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     margin-left: 0px;
     line-height: 1em; 
     font-size: 30px;
