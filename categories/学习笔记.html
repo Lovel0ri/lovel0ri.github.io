@@ -4,62 +4,9 @@ title : 学习笔记
 header : 所有文章
 group: navigation
 ---
+{% include JB/setup %}
 
-  
-  
-  
-    
-      
-      
-      
-      
-    
-      
-      
-      
-        <div class="hat_title">
-          <h3>2021</h3>
-        </div>
-        <div class="post_list">
-        <ul>
-        
-      
-    
-      <li>
-        <span>
-          2021-12-24
-        </span>
-         » 
-        <a href="/_posts/2021-12-24-文章三.md">文章三</a>
-      </li>
-   
-      
-            
-        
-      
-    
-      
-      
-      
-      
-    
-      
-    
-      <li>
-        <span>
-          2021-12-21
-        </span>
-         » 
-        <a href="/2021/12/%E6%96%87%E7%AB%A0%E4%B8%80/">文章一</a>
-      </li>
-   
-      
-        </ul>
-        
-      
-    
-  
-  </div>
-  </div>
-    </section>
-  </article>
+{% assign posts_collate = site.posts %}
+<div class="page card">
+{% include JB/posts_collate2 %}
+</div>
