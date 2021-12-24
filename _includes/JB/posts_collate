@@ -17,10 +17,10 @@ Usage:
         
 -->{% endcomment %}
 
-{% if site.JB.posts_collate.provider == "custom" %}
-  {% include custom/posts_collate %}
+{% if site.JB.xuexibiji_collate.provider == "custom" %}
+  {% include custom/xuexibiji_collate %}
 {% else %}
-  {% for post in posts_collate  %}
+  {% for post in xuexibiji_collate  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
@@ -63,4 +63,4 @@ Usage:
     {% endif %}
   {% endfor %}
 {% endif %}
-{% assign posts_collate = nil %}</div>
+{% assign xuexibiji_collate = nil %}</div>
