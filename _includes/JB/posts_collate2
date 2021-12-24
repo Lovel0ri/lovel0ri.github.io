@@ -42,7 +42,7 @@ Usage:
         {{ post.date | date: "%Y-%m-%e" }}
       </span>
        &raquo; 
-      <a href="{{ BASE_PATH }}{{ xuexi.url }}">{{ post.title }}</a>
+      <a href="{{ BASE_PATH }}{{ .url }}">{{ post.title }}</a>
     </li>
  
     {% if forloop.last %}
