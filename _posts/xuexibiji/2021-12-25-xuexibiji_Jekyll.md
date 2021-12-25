@@ -17,15 +17,15 @@ categories:
 
 * _layout文件夹，这是一个存放各种网页模板的文件夹，像主页，列表页，博客内容页面，这些分别的页面模板都是放在这里的。
 
-![](E:\网络与新媒体\github\lovel0ri.github.io\images\xuexibiji\xuexibiji-layouts.jpg)
+![](images\xuexibiji\xuexibiji-layouts.jpg)
 
 * _config.yml文件夹，这是全网站通用设置保存的地方，比如网站主题，名称，介绍，域名，Github用户名等。.yml是像.ini一样的配置文件类型。
 
-![](E:\网络与新媒体\github\lovel0ri.github.io\images\xuexibiji\xuexibiji-config.jpg)
+![](images\xuexibiji\xuexibiji-config.jpg)
 
 * 还有其他像css文件夹，_includes文件夹，_posts文件夹等都有各自特定的意义。
 
-![](E:\网络与新媒体\github\lovel0ri.github.io\images\xuexibiji\xuexibiji-css.jpg)
+![](images\xuexibiji\xuexibiji-css.jpg)
 
 
 
@@ -42,7 +42,7 @@ categorier: jekyll update
 ---
 ```
 
-![](E:\网络与新媒体\github\lovel0ri.github.io\images\xuexibiji\xuexibiji-文件头信息.jpg)
+![](\images\xuexibiji\xuexibiji-文件头信息.jpg)
 
 ## 头信息的常用参数
 
