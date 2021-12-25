@@ -9,5 +9,7 @@ title: 关于我
 
 平时喜欢摸鱼，是组里的划水健将，但关键时刻总能起到作用。
 
+![](..\images\xuexibiji\xuexibiji-文件头信息.jpg)
+
 ## 我爱学习
 

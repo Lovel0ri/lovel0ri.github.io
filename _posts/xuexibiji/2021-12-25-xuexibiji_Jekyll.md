@@ -21,7 +21,7 @@ categories:
 
 * _config.yml文件夹，这是全网站通用设置保存的地方，比如网站主题，名称，介绍，域名，Github用户名等。.yml是像.ini一样的配置文件类型。
 
-![](images\xuexibiji\xuexibiji-config.jpg)
+![](..\..\images\xuexibiji\xuexibiji-config.jpg)
 
 * 还有其他像css文件夹，_includes文件夹，_posts文件夹等都有各自特定的意义。
 
@@ -42,7 +42,7 @@ categorier: jekyll update
 ---
 ```
 
-![](..\..\\images\xuexibiji\xuexibiji-文件头信息.jpg)
+![](..\..\images\xuexibiji\xuexibiji-文件头信息.jpg)
 
 ## 头信息的常用参数
 
