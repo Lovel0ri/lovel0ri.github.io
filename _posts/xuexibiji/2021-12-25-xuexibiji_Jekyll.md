@@ -29,8 +29,28 @@ categories:
 
 
 
+## Front-Matter文件头信息
 
+它是写在每个Markdown文件头部的设置信息，主要是指明这篇文章标题、日期、使用的模板、样式、标签、分类等，这样Jekyll就可以根据这些设置把markdown文件转换成你想要的最终HTML网页了。以下是它的基本格式：
+
+```
+---
+layout: post
+title: "Welcome to Jekyll!"
+date: 2021-12-25 21:05:17
+categorier: jekyll update
+---
+```
+
+![](E:\网络与新媒体\github\lovel0ri.github.io\images\xuexibiji\xuexibiji-文件头信息.jpg)
+
+## 头信息的常用参数
+
+- layout: 指明模板名称，即指定使用_layout文件夹中的哪个HTML网页做为模板。
+- title: 这篇文章的标题。
+- date: 这篇文章的日期。
+- categories: 这篇文章的分类。
 
 ## 感想
 
-通过老师的讲解，我明白了Jekyll的每个文件夹都有他特定的意义，每个文件夹的命名也是有深意的，从此也可以看出这门课程的博大精深之处。
+通过老师的讲解，我明白了Jekyll的每个文件夹都有他特定的意义，每个文件夹的命名也是有深意的，对于日后的维护都是十分方便的，减少更新文章内容带来多余的不必要的操作。从此也可以看出这门课程的博大精深之处。
